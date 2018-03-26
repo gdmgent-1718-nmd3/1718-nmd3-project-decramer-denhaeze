@@ -13,8 +13,8 @@ Opdracht
 Teamleden
 ---------
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - Sofie Den Haeze
+ - Caitlin Decramer
 
-Gekozen Museum
+Design museum
 --------------

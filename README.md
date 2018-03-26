@@ -3,8 +3,8 @@ New Media Design III 2017-2018
 
 Studenten:
 
- - «VOORNAAM» «FAMILIENAAM»
- - «VOORNAAM» «FAMILIENAAM»
+ - «Sofie» «Den Haeze»
+ - «Caitlin» «Decramer»
 
 > Artevelde University College Ghent
 
