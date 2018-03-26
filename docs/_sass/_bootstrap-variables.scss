@@ -10,13 +10,18 @@
 // Color system
 //
 
-$cyan:    #17a2b8 !default;
-$primary: $cyan;
+$darkyellow:    #D6AD39 !default;
+$dark:          #052427;
+$white:           #FFFFFF;
+$primary: $darkyellow;
+
 
 // Fonts
 //
 // Font, line-height, and color for body text, headings, and more.
 
-@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Podkova:400,500,600,700,800');
+@import url('https://fonts.googleapis.com/css?family=Rajdhani:400,600,700');
 
-$font-family-base: Merriweather, serif;
+$font-family-base: Podkova;
+$font-family-text: Rajdhani;
