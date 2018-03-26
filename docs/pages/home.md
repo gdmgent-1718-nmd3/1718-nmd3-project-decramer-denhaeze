@@ -12,3 +12,5 @@ Wie zijn we?
 
  - Caitlin Decramer, 2CMO-PD
  - Sofie Den Haeze, 2CMO-PD
+ - Ons 3e groepslid
+ - en ons 4e

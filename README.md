@@ -3,8 +3,13 @@ New Media Design III 2017-2018
 
 Studenten:
 
+<<<<<<< HEAD
  - «Caitlin» «Decramer»
  - «Sofie» «Den Haeze»
+=======
+ - «Sofie» «Den Haeze»
+ - «Caitlin» «Decramer»
+>>>>>>> dbd2a475447fc455d613d1537cdef855880fa893
 
 > Artevelde University College Ghent
 
