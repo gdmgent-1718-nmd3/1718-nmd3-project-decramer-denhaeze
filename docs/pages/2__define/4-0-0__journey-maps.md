@@ -7,66 +7,52 @@ published: true
 title: Journey Maps
 ---
 
-Maria Vanderbroecke
-----
+## Maria Vanderbroecke
 
-Demografische gegevens
------
+### Demografische gegevens
 
-<p><b>Leeftijd:</b> 76 jaar</p>
-<p><b>Job:</b> pensioen</p>
-<p><b>Familie:</b> weduwe, 3 kinderen</p>
-<p><b>Hobby's:</b> tijd doorbrengen met vriendinnen, museums bezoeken en breien</p>
-<p><b>Interesses:</b> gezondheids weetjes, actualiteit</p>
-<p><b>Woonplaats:</b> Merksem</p>
-<p><b>Inkomen:</b> 1889 euro netto per maand</p>
+**Leeftijd:** 76 jaar   
+**Job:** pensioen   
+**Familie:** weduwe, 3 kinderen   
+**Hobby's:** tijd doorbrengen met vriendinnen, museums bezoeken en breien   
+**Interesses:** gezondheids weetjes, actualiteit   
+**Woonplaats:** Merksem   
+**Inkomen:** 1889 euro netto per maand   
 
-Digitaal profiel
------
+### Digitaal profiel
 
-<p><b>3 vaak bezochte websites</b></p>
-<ul>
-    <li>Facebook</li>
-    <li>KMI</li>
-    <li>Tripadvisor</li>
-</ul>
+**3 vaak bezochte websites**
+- Facebook
+- KMI
+- Tripadvisor
 
-<p><b>3 veel gebruikte apps</b></p>
-<ul>
-    <li>Messenger</li>
-    <li>Buienalarm</li>
-    <li>Candy Crush</li>
-</ul>
+**3 veel gebruikte apps**
+- Messenger
+- Buienalarm
+- Candy Crush
 
-<p><b>Toestellen:</b> Taptop en smartphone</p>
+**Toestellen**   
+- Laptop
+- Smartphone
 
-Lijst van taken
------
+### Lijst van taken
 
-<p>Het huishouden en op woensdag en zondag zorgen voor de kleinkinderen</p>
+Het huishouden en op woensdag en zondag zorgen voor de kleinkinderen
  
- Frustraties
------
+### Frustraties
+- Onvriendelijke mensen
+- Als er geen mogelijkheid is om te rusten
 
-<ul>
-    <li> Onvriendelijke mensen </li>
-    <li> Als er geen mogelijkheid is om te rusten </li>
-</ul>
+### Algemene vragen
+- Is die technologie wel nodig?
 
-Algemene vragen
------
+### Houding en overtuiging
 
-<p> Is die technologie wel nodig? </p>
+Ze houdt van **nieuwe invloeden** en nieuwe dingen te leren om te zien. Ze gaat graag dingen doen met vriendinnen. Ze heeft geen haast en doet daarom alles op haar gemak. Ze is een levensgenieter met een open blik en **kijkt kritische** naar de dingen rondom haar
 
-Houding en overtuiging 
------
+### Scenario
 
-<p> Ze houdt van <b> nieuwe invloeden</b> en nieuwe dingen te leren om te zien. Ze gaat graag dingen doen met vriendinnen. Ze heeft geen haast en doet daarom alles op haar gemak. Ze is een levensgenieter met een open blik en <b> kijkt kritische </b> naar de dingen rondom haar </p>
-
-Scenario
-----
-
-<p>Maria is een vrouw van 76 jaar. Ze is <b>leergierig</b> en gaat daarom graag naar een museum met haar vriendinnen. Ze vind het belangrijk in haar uitstapjes dat ze dit op haar eigen tempo kan doen en eens kan <b>rusten</b>. Tijdens haar museum bezoek in het designmuseum in Gent kan ze de app gebruiken om te kijken <b>wanneer de bar open</b> is en wat je daar kan bestellen. Omdat ze een museum heeft overweldigend vind gebruikt ze de app om te kijken wat de <b>andere gebruikers goed vonden</b> om zo een selectie te maken van welke kamers ze gaat bekijken en welke niet. Ze kan ook kijken <b>hoe ze kan stappen</b> en wat er nog allemaal te zien is. Zo weet ze altijd waar ze naartoe moet en kan ze in alle rust genieten van het museum. Maar ze vind lezen heel vermoeiend en wil vooral kijken. Daarom gebruikt ze de app om voorwerpen die ze mooi vind of interessant <b>de bordjes te laten voorlezen of op te slaan</b>. Zo kan ze thuis deze informatie lezen en kan ze meer genieten in het museum zonder dat ze iets mist.</p>
+Maria is een vrouw van 76 jaar. Ze is **leergierig** en gaat daarom graag naar een museum met haar vriendinnen. Ze vind het belangrijk in haar uitstapjes dat ze dit op haar eigen tempo kan doen en eens kan **rusten**. Tijdens haar museum bezoek in het designmuseum in Gent kan ze de app gebruiken om te kijken **wanneer de bar open** is en wat je daar kan bestellen. Omdat ze een museum heeft overweldigend vind gebruikt ze de app om te kijken wat de **andere gebruikers goed vonden** om zo een selectie te maken van welke kamers ze gaat bekijken en welke niet. Ze kan ook kijken **hoe ze kan stappen** en wat er nog allemaal te zien is. Zo weet ze altijd waar ze naartoe moet en kan ze in alle rust genieten van het museum. Maar ze vind lezen heel vermoeiend en wil vooral kijken. Daarom gebruikt ze de app om voorwerpen die ze mooi vind of interessant **de bordjes te laten voorlezen of op te slaan**. Zo kan ze thuis deze informatie lezen en kan ze meer genieten in het museum zonder dat ze iets mist.
 
 <table class="table table-bordered">
   <tbody>
