@@ -6,3 +6,6 @@ published: true
 # ─────────────────────
 title: Knoppen
 ---
+<div class="btn margin-top">
+Dit is een voorbeeld van een knop
+</div>

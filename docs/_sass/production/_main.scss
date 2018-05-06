@@ -1,0 +1,43 @@
+// style guide
+.margin-top {
+    margin-top: 20px;
+}
+
+.styleguide-color {
+    width: 100px;
+    height: 100px;
+    padding: 35px 17px;
+    font-family: $font-family-text;
+    font-weight: 500;
+}
+.color1 {
+    border: 3px solid #FFFFFF;
+    background-color: #052427;
+  }
+
+.color2 {
+    border: 3px solid #FFFFFF;
+    background-color: #D6AD39;
+}
+.color3 {
+    border: 3px solid #FFFFFF;
+    background-color: #FFFFFF;
+    color: #052427;
+}
+
+.btn {
+    border: 3px solid $primary;
+    background-color: $secundary;
+    border-radius: 0px;
+    color: $primary;
+    font-weight: 500;
+    &:hover {
+        background-color: $primary;
+        color: $secundary;
+    }
+    &:active {
+        background-color: $primary;
+        color: $secundary;
+    }
+}
+

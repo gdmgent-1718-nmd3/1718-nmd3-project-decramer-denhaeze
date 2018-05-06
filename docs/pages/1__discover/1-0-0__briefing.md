@@ -9,12 +9,11 @@ title: Briefing
 
 Opdracht
 --------
+Geef een museumbezoeker een nieuwe gebruikersbeleving door gebruik te maken van smartwatch en smartphone.
+Wij hebben gekozen voor het **Design museum** in Gent.
 
 Teamleden
 ---------
 
  - Sofie Den Haeze
  - Caitlin Decramer
-
-Design museum
---------------

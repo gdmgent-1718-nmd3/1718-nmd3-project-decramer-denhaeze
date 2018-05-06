@@ -6,10 +6,10 @@ published: true
 # ─────────────────────
 title: Planning
 ---
-**Week 3:** Analyse afgewerkt  
+**Week 3:** Analyse  
 **Week 4:** Elevator Pitch  
-**Week 7:** Smartwatch-app afwerken  
+**Week 6:** Smartwatch-app  
 **Week 8:** Smartphone-app  
-**Week 11:** Website afwerken  
-**Week 13:** UI Style Guide
+**Week 11:** Website  
+**Week 12:** UI Style Guide
 

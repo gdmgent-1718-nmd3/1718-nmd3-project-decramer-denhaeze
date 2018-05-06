@@ -7,9 +7,7 @@ published: true
 title: Concept
 ---
 
-Wij zijn gaan kijken in het designmuseum in gent. Daar hebben we gezien dat een app zeker een meerwaarde is voor het museum. Wij hebben gekeken naar de frustraties en de behoeftes van de museumbezoekers en hebben een concept voor een museumapp gemaakt dat we graag aan jullie voorstellen. Wij hebben onze app dezelfde naam gegeven als het museum zodat het voor de gebruiker heel duidelijk is.  
-
-Op de app zal de de museumbezoeker kunnen zien waar hij is en waar hij naartoe moet. Want dit bleek voor de museumbezoekers een frustratie te zijn. Zo zal hij nooit de weg kwijt zijn of twee keer in dezelfde ruimte terecht komen. Op de plattegrond zal ook te zien zijn welke tentoonstellingen hij nog zal zien.  
+In de app zal de de museumbezoeker kunnen zien waar hij is en waar hij naartoe moet. Want dit bleek voor de museumbezoekers een frustratie te zijn. Zo zal hij nooit de weg kwijt zijn of twee keer in dezelfde ruimte terecht komen. Op de plattegrond zal ook te zien zijn welke tentoonstellingen hij nog zal zien.  
 
 De bezoeker kan ook een waardering geven aan elk object.  
 

@@ -1,0 +1,65 @@
+# ╔══════════════════╗
+# ║ Caitlin Decramer ║
+# ╚══════════════════╝
+# Tijd in kwartieren (0.25 uur)
+-
+  time: 0.5
+  task: Voorbereiding museumbezoek
+-
+  time: 2
+  task: Museumbezoek
+-
+  time: 2
+  task: Analyse + feedback
+-
+  time: 2
+  task: Persona opstellen
+-
+  time: 1
+  task: Voorbereiding elevator pitch
+-
+  time: 2.75
+  task: Ideaboard
+-
+  time: 1
+  task: Analyse aangevuld en verbeterd
+-
+  time: 2.50
+  task: Style Tiles
+-
+  time: 0.50
+  task: Technische analyse
+-
+  time: 1
+  task: Varianten op Style Tiles
+-
+  time: 1.50
+  task: Visual design smartwatch
+-
+  time: 3
+  task: Digitaal productiedossier
+-
+  time: 1.50
+  task: Bespreking smartphone app
+-
+  time: 1.50
+  task: Productiedossier + journey map
+-
+  time: 0.75
+  task: Journey map + opmaak tabel
+-
+  time: 0.50
+  task: bespreking concept website
+-
+  time: 1.75
+  task: Visual Design website
+-
+  time: 2.25
+  task: Visual Design website
+-
+  time: 2
+  task: Productiedossier + digital styleguide
+-
+  time: 0.75
+  task: Timesheet in digitaal productiedossier + hernoemen pagina's
+
