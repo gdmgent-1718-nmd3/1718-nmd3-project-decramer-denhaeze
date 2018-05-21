@@ -6,6 +6,7 @@ published: true
 # ─────────────────────
 title: Concept
 ---
+Met ons concept spelen wij in op de behoeften en frustraties van de museumbezoekers.
 
 In de app zal de de museumbezoeker kunnen zien waar hij is en waar hij naartoe moet. Want dit bleek voor de museumbezoekers een frustratie te zijn. Zo zal hij nooit de weg kwijt zijn of twee keer in dezelfde ruimte terecht komen. Op de plattegrond zal ook te zien zijn welke tentoonstellingen hij nog zal zien.  
 
@@ -19,7 +20,7 @@ In de app zal ook te zien zijn welke tijdelijke tentoonstellingen de bezoeker in
 
 We hebben ook gemerkt dat de bezoekers graag eens een pauze nemen tijdens hun museumbezoek. Daarom zullen ook de openingsuren van de bar en de kaart in de app te zien zijn.  
 
-We hebben ook gemerkt dat de tentoonstelling die er voor ongeveer 7 jaar blijft staan weinig bezoekers lokt. Dit komt omdat de bezoeker weinig uitleg krijgt bij de verschillende objecten. In onze app zal de gebruiker kunnen zien uit welke tijd de objecten komen en door wie ze gemaakt zijn en eventueel een woordje uitleg. De gebruiker zal op de app ook kunnen zien welke voorwerpen uit de tentoonstelling in dezelfde tijdsklasse gemaakt zijn of door dezelfde persoon. Op die manier ziet de bezoeker meer links tussen de verschillende voorwerpen.  
+We hebben ook gemerkt dat de tentoonstelling die er voor ongeveer 7 jaar blijft staan weinig bezoekers lokt. Dit komt omdat de bezoeker weinig uitleg krijgt bij de verschillende objecten. In onze app zal de gebruiker kunnen zien uit welke tijd de objecten komen en door wie ze gemaakt zijn en eventueel een woordje uitleg. De gebruiker zal in de app ook kunnen zien welke voorwerpen uit de tentoonstelling in dezelfde tijdsklasse gemaakt zijn of door dezelfde persoon. Op die manier ziet de bezoeker meer links tussen de verschillende voorwerpen.  
 
 De objecten kunnen geordend worden op  
 - Tijdsklasse  
