@@ -12,28 +12,28 @@
   time: 2
   task: Analyse + feedback
 -
-  time: 2
+  time: 3
   task: Persona opstellen
 -
-  time: 1
+  time: 1.5
   task: Voorbereiding elevator pitch
 -
   time: 2.75
   task: Ideaboard
 -
-  time: 1
+  time: 2
   task: Analyse aangevuld en verbeterd
 -
-  time: 2.50
+  time: 3
   task: Style Tiles
 -
-  time: 0.50
+  time: 0.75
   task: Technische analyse
 -
-  time: 1
+  time: 1.5
   task: Varianten op Style Tiles
 -
-  time: 1.50
+  time: 2
   task: Visual design smartwatch
 -
   time: 3
@@ -45,7 +45,7 @@
   time: 1.50
   task: Productiedossier + journey map
 -
-  time: 0.75
+  time: 1.50
   task: Journey map + opmaak tabel
 -
   time: 0.50
@@ -57,21 +57,37 @@
   time: 2.25
   task: Visual Design website
 -
-  time: 2
+  time: 2.5
   task: Productiedossier + digital styleguide
 -
-  time: 0.75
+  time: 1.5
   task: Timesheet in digitaal productiedossier + hernoemen pagina's
 -
   time: 3
   task: Feedback en Designs aanpassen
 -
-  time: 0.5
+  time: 0.75
   task: Checklist maken + links in technische analyse
 -
-  time: 0.5
+  time: 0.75
   task: Style Tiles afwerken en in productiedossier
 -
   time: 1
   task: Analyse
+-
+  time: 7.50
+  task: Wireflow, smartwatch, website
+-
+  time: 2.5
+  task: Website, smartwatch, smartphone, feedback
+-
+  time: 3.75
+  task: Smartwatch, website
+-
+  time: 2.5
+  task: Website
+-
+  time: 4.75
+  task: Smartphone
+  
 
