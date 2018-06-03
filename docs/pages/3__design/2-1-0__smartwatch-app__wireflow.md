@@ -7,4 +7,6 @@ published: true
 title: Wireflow
 ---
 
+![Style Tile](/1718-nmd3-project-decramer-denhaeze/images/wireflow/wireflow_smartwatch.jpg){:class="sitemap"}
 
+![Style Tile](/1718-nmd3-project-decramer-denhaeze/images/wireflow/wireflow_smartwatch2.jpg){:class="sitemap"}
