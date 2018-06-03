@@ -7,9 +7,11 @@ published: true
 title: Gebruikerstests
 ---
 
-Paper Prototype
----------------
-**Gebruikerstest van Maria Vanderbroecke**
+# Paper Prototype
+
+![Style Tile](/1718-nmd3-project-decramer-denhaeze/images/paper_prototype.jpg){:class="paper_prototype"}  
+
+# Gebruikerstest van Maria Vanderbroecke
 Als de app geopend werd moesten ze direct een route kiezen. Dit was verwarrend voor de gebruiker, dat er geen algemeen scherm was eerst dus hebben we als beginscherm het logo van het museum gekozen.
 
 Bij routes was een keuzemogelijkheid populaire route. De gebruiker wist niet zo goed wat hiermee bedoeld werd. We hebben deze benaming veranderd door bezoekersvoorkeuren.
