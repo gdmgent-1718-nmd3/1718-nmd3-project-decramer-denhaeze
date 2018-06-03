@@ -1,0 +1,99 @@
+# ╔══════════════════╗
+# ║ Caitlin Decramer ║
+# ╚══════════════════╝
+# Tijd in kwartieren (0.25 uur)
+-
+  time: 0.5
+  task: Voorbereiding museumbezoek
+-
+  time: 2
+  task: Museumbezoek
+-
+  time: 2
+  task: Analyse + feedback
+-
+  time: 3
+  task: Persona opstellen
+-
+  time: 1.5
+  task: Voorbereiding elevator pitch
+-
+  time: 2.75
+  task: Ideaboard
+-
+  time: 2
+  task: Analyse aangevuld en verbeterd
+-
+  time: 3
+  task: Style Tiles
+-
+  time: 0.75
+  task: Technische analyse
+-
+  time: 1.5
+  task: Varianten op Style Tiles
+-
+  time: 2
+  task: Visual design smartwatch
+-
+  time: 3
+  task: Digitaal productiedossier
+-
+  time: 1.50
+  task: Bespreking smartphone app
+-
+  time: 2.50
+  task: Productiedossier + journey map
+-
+  time: 2
+  task: Journey map + opmaak tabel
+-
+  time: 0.50
+  task: bespreking concept website
+-
+  time: 2.25
+  task: Visual Design website
+-
+  time: 2.75
+  task: Visual Design website
+-
+  time: 2.5
+  task: Productiedossier + digital styleguide
+-
+  time: 1.5
+  task: Timesheet in digitaal productiedossier + hernoemen pagina's
+-
+  time: 3
+  task: Feedback en Designs aanpassen
+-
+  time: 0.75
+  task: Checklist maken + links in technische analyse
+-
+  time: 0.75
+  task: Style Tiles afwerken en in productiedossier
+-
+  time: 1.5
+  task: Analyse
+-
+  time: 8.50
+  task: Wireflow, smartwatch, website
+-
+  time: 2.5
+  task: Website, smartwatch, smartphone, feedback
+-
+  time: 3.75
+  task: Smartwatch, website
+-
+  time: 4.5
+  task: Website
+-
+  time: 5.25
+  task: Smartphone
+-
+  time: 6.5
+  task: Sitemaps, wireflow smartwatch, productiedossier, screen designs smartwatch
+-
+  time: 5
+  task: Alles in productiedossier + laatste afwerkingen
+  
+
