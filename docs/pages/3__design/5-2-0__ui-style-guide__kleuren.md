@@ -18,6 +18,3 @@ title: Kleuren
     #FFFFFF
     </div>
 </div>
-
-
-  

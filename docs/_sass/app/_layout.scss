@@ -77,6 +77,30 @@ img {
   width: 700px;
   margin-left: 0px;
 }
+.wireflow-smartphone {
+  width: 1175px;
+  margin-left: -200px;
+  margin-top: -100px;
+}
+.tests {
+  width: 300px;
+  margin-left: 0px;
+  margin-bottom: 20px;
+}
+.wireframe-website {
+  width: 400px;
+  margin-left: 0px;
+}
+.knoppen {
+  width: 250px;
+  margin-left: 0px;
+  margin-top: 20px;
+}
+
+
+
+
+
 // tabel journey map
 .table li {
   list-style-type: none;
@@ -86,4 +110,16 @@ img {
 }
 .table {
   width: 800px;
+}
+
+
+.link {
+  font-family: $font-family-text;
+  font-weight: 800;
+  color: white;
+  font-size: 18px;
+  &:hover {
+    text-decoration: none;
+    color: $primary;
+  }
 }

@@ -6,7 +6,6 @@ published: true
 # ─────────────────────
 title: Journey Maps
 ---
-
 ## Maria Vanderbroecke
 
 ### Demografische gegevens
@@ -250,9 +249,6 @@ Maria is een vrouw van 76 jaar. Ze is **leergierig** en gaat daarom graag naar e
 
 ### Algemene vragen
 - Waarom kunnen Belgen geen wegen bouwen?
-
-### Houding en overtuiging
-
 
 
 ### Scenario

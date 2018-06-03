@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Wireframes
 ---
+![Wireframes smartphone](/1718-nmd3-project-decramer-denhaeze/images/website_wireframes.jpg){:class="wireframe-website"}

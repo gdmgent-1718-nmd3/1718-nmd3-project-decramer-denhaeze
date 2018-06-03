@@ -42,19 +42,19 @@
   time: 1.50
   task: Bespreking smartphone app
 -
-  time: 1.50
+  time: 2.50
   task: Productiedossier + journey map
 -
-  time: 1.50
+  time: 2
   task: Journey map + opmaak tabel
 -
   time: 0.50
   task: bespreking concept website
 -
-  time: 1.75
+  time: 2.25
   task: Visual Design website
 -
-  time: 2.25
+  time: 2.75
   task: Visual Design website
 -
   time: 2.5
@@ -72,10 +72,10 @@
   time: 0.75
   task: Style Tiles afwerken en in productiedossier
 -
-  time: 1
+  time: 1.5
   task: Analyse
 -
-  time: 7.50
+  time: 8.50
   task: Wireflow, smartwatch, website
 -
   time: 2.5
@@ -84,10 +84,16 @@
   time: 3.75
   task: Smartwatch, website
 -
-  time: 2.5
+  time: 4.5
   task: Website
 -
-  time: 4.75
+  time: 5.25
   task: Smartphone
+-
+  time: 6.5
+  task: Sitemaps, wireflow smartwatch, productiedossier, screen designs smartwatch
+-
+  time: 5
+  task: Alles in productiedossier + laatste afwerkingen
   
 

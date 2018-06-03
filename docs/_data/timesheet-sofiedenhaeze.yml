@@ -3,26 +3,95 @@
 # ╚═════════════════╝
 # Tijd in kwartieren (0.25 uur)
 -
-  time: 0.25
-  task: Lorem ipsum sit dolor amet.
--
   time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  task: Voorbereiding museumbezoek
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Museumbezoek
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Analyse + feedback
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 2.5
+  task: Elevator Pitch
 -
   time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  task: Analyse aanvullen
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 3.25
+  task: Journey Map afwerken + Ideaboard
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 2
+  task: Wireflow + Paper Prototype
+-
+  time: 3
+  task: Paper Prototype
+-
+  time: 1.5
+  task: Visual Design
+-
+  time: 2.5
+  task: Visual Design + Productiedossier coderen
+-
+  time: 8
+  task: Wireflow Smartphone app
+-
+  time: 1.5
+  task: Visual Design app
+-
+  time: 1
+  task: Symbolen
+-
+  time: 2 
+  task: Visual Design app
+-
+  time: 1
+  task: Symbolen
+-
+  time: 2
+  task: Visual Design app
+-
+  time: 0.5
+  task: Website concept
+-
+  time: 1
+  task: Visual Design app
+-
+  time: 3
+  task: Feedback en Designs aanpassen
+-
+  time: 1.5
+  task: Feedback toepassen op smartphone app
+-
+  time: 1
+  task: Technische analyse smartphone
+-
+  time: 2
+  task: Paper prototype herwerken
+-
+  time: 1
+  task: Website Design
+-
+  time: 3
+  task: Plattegrond
+-
+  time: 3
+  task: Smartphone en website aanpassen
+-
+  time: 2 
+  task: Smartphone
+-
+  time: 2
+  task: Plattegrond
+-
+  time: 8
+  task: Smartphone app
+-
+  time: 5
+  task: Smartphone app / wireflow
+-
+  time: 2
+  task: Productiedossier
+-
+  time: 3
+  task: Website

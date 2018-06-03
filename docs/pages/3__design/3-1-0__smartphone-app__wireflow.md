@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Wireflow
 ---
+![wireflow smartphone](/1718-nmd3-project-decramer-denhaeze/images/wireflow/wireflow_smartphone.png){:class="wireflow-smartphone"}

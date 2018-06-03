@@ -6,4 +6,4 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
-![Style Tile](/1718-nmd3-project-decramer-denhaeze/images/sitemaps/sitemap_smartphone.png){:class="sitemap"}
+![Sitemap smartphone](/1718-nmd3-project-decramer-denhaeze/images/sitemaps/sitemap_smartphone.png){:class="sitemap"}
