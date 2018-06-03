@@ -46,6 +46,9 @@
       permalink: design/smartwatch-app/
       children:
         -
+          title: Sitemap
+          permalink: design/smartwatch-app/sitemap/
+        -
           title: Wireflow
           permalink: design/smartwatch-app/wireflow/
         -
@@ -58,6 +61,9 @@
       title: Smartphone-app
       permalink: design/smartphone-app/
       children:
+        -
+          title: Sitemap
+          permalink: design/smartphone-app/sitemap/
         -
           title: Wireflow
           permalink: design/smartphone-app/wireflow/
